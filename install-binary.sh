@@ -3,7 +3,7 @@
 # Combination of the Glide and Helm scripts, with my own tweaks.
 
 PROJECT_NAME="helm-template"
-PROJECT_GH="technosophos/$PROJECT_NAME"
+PROJECT_GH="tdickman/$PROJECT_NAME"
 
 : ${HELM_PLUGIN_PATH:="$(helm home)/plugins/helm-template"}
 
